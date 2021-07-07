@@ -24,11 +24,11 @@ cov2=1
 *\
 
 \*True value of random effects:
-randomint_hrr=0.5
-random_year_hrr=0.1
-random_acoacopost_provider=0.5
-ssigma_01=0.6
-ssigma_02=0.3
-ssigma_11=0.5
-ssigma_12=0.2
+sigma_0k=0.5
+sigma_1k=0.1
+sigma_20h=0.5
+sigma_01=0.6
+sigma_11=0.5
+sigma_02=0.3
+sigma_12=0.2
 *\
