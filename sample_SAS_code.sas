@@ -13,7 +13,7 @@ covtest 'practice variation' general 0 0 0 1 0 -1 0,
                                      0 0 0 0 1 0 -1;
 run;
 
-\*True value of fixed effect
+\*True value of fixed effects:
 Intercept=-1
 aco=0.5
 aco*post=-0.5
@@ -21,4 +21,14 @@ year2010=-0.5
 year2011=-1
 cov1=1
 cov2=1
+*\
+
+\*True value of random effects:
+randomint_hrr=0.5
+random_year_hrr=0.1
+random_acoacopost_provider=0.5
+ssigma_01=0.6
+ssigma_02=0.3
+ssigma_11=0.5
+ssigma_12=0.2
 *\
