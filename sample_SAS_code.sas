@@ -1,4 +1,4 @@
-proc import datafile = 'sample data.csv'
+proc import datafile = 'sample_data.csv'
 out=data
 dbms=CSV;
 run;
