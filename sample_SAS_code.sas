@@ -24,9 +24,9 @@ cov2=1
 *\
 
 \*True value of random effects:
-sigma_0k=0.5
-sigma_1k=0.1
-sigma_20h=0.5
+sigma_c0=0.5
+sigma_c1=0.1
+sigma_u20=0.5
 sigma_01=0.6
 sigma_11=0.5
 sigma_02=0.3
