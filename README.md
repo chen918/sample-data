@@ -1,1 +1,1 @@
-This file contains scripts for the paper "Estimating Heterogeneous Effects of a Policy Intervention across Organizations when Organization Affiliation is Missing for the Control Group: Application to the Evaluation of Accountable Care Organizations"
+This file contains simulated data and code for the paper "Estimating Heterogeneous Effects of a Policy Intervention across Organizations when Organization Affiliation is Missing for the Control Group: Application to the Evaluation of Accountable Care Organizations".
