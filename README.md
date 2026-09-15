@@ -1,1 +1,1 @@
-This file contains simulated data and code for the paper "Estimating Heterogeneous Effects of a Policy Intervention across Organizations when Organization Affiliation is Missing for the Control Group: Application to the Evaluation of Accountable Care Organizations".
+This file contains sample data and code in SAS for the paper "Using a mixed-effect model with a parameter-space of heterogenous dimension to evaluate whether accountable care organizations are associated with greater uniformity across constituent practices".
